@@ -4,15 +4,15 @@
 /yii_test.bat
 
 # phpstorm project files
-.idea
+/.idea
 
 # netbeans project files
-nbproject
+/nbproject
 
 # zend studio for eclipse project files
-.buildpath
-.project
-.settings
+/.buildpath
+/.project
+/.settings
 
 # windows thumbnail cache
 Thumbs.db
